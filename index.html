@@ -74,6 +74,8 @@
 
         submit.addEventListener('click', function () {
             hasil.innerText = eval(num1.value + operator.value + num2.value)
+            num1.value = "",
+            num2.value = ""
         })
     </script>
 </body>
