@@ -1,7 +1,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Albretus2/kalkulator-sederhana/blob/master/konten/Screen%20Shot%202024-04-03%20at%2020.38.44.png)
 
 
 # 🪬 Aplikasi Kalkulator teramat sangat sederhana Menggunakan javaScript
